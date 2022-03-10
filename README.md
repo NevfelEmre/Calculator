@@ -1,6 +1,6 @@
 # calculator_with_flutter
 
-A new Flutter project.
+işlem önceliğine dikkat etmiyor bunun dışında bir sorunu yok onu yapmaya uğraşmadım sonuçta benim ilk mobil uygulamam.
 
 ## Getting Started
 
