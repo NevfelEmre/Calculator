@@ -2,6 +2,7 @@
 
 işlem önceliğine dikkat etmiyor bunun dışında bir sorunu yok onu yapmaya uğraşmadım sonuçta benim ilk mobil uygulamam.
 
+//it doesn't pay attention to the priority of the process, there is no problem other than that, I didn't try to solve it, after all, it's my first mobile application. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
